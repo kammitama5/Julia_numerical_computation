@@ -9,6 +9,11 @@ println("Hello, World!")
 ```
 # - comment
 ```
+- Concatenation strings
+
+```
+println("Hello!" * " World!") 
+```
 
 ## Notes
 - strings are immutable
