@@ -32,4 +32,11 @@ typeof(x)
 Array{Integer(2,3)}
 ```
 
+## Data Analysis
+
+- read in data
+```
+file = readdlm('file.csv',sep)
+```
+
 
