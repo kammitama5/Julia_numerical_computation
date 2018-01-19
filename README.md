@@ -5,3 +5,10 @@ Repo for all notes and Notebooks Julia!
 ```
 println("Hello, World!")
 ```
+
+```
+# - comment
+```
+
+## Notes
+- strings are immutable
