@@ -22,3 +22,8 @@ println("Hello!" * " World!")
   - then exponentiation
   - multiplication and division from left to right
   - addition and subtraction from left to right
+
+- types
+```
+typeof(x)
+```
