@@ -27,3 +27,9 @@ println("Hello!" * " World!")
 ```
 typeof(x)
 ```
+
+```
+Array{Integer(2,3)}
+```
+
+
