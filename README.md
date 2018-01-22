@@ -31,6 +31,11 @@ typeof(x)
 ```
 Array{Integer(2,3)}
 ```
+- subtypes of (Is Float64 a Subtype of Any?)
+```
+Float64 <: Any
+```
+- returns true 
 
 ## Data Analysis
 
