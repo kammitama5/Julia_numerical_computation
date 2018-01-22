@@ -23,7 +23,7 @@ println("Hello!" * " World!")
   - multiplication and division from left to right
   - addition and subtraction from left to right
 
-- types
+## Types
 ```
 typeof(x)
 ```
@@ -36,6 +36,18 @@ Array{Integer(2,3)}
 Float64 <: Any
 ```
 - returns true 
+
+## Comparison 
+```
+==(2, 2.0)
+``` 
+- returns true
+```
+===(2, 2.0)
+``` 
+- returns false
+```is(2, 2.0)``` is the same as ```===``` and does bit-level comparison
+
 
 ## Data Analysis
 
