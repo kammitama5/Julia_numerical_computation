@@ -56,4 +56,12 @@ Float64 <: Any
 file = readdlm('file.csv',sep)
 ```
 
+## Start locally
+```
+using IJulia
+```
+```
+notebook()
+```
+
 
